@@ -1,4 +1,4 @@
-# mobilefirstportfolio website.
+## Responsive Portfolio website 
 
 This is a portfolio website that has prioritized mobile user  experience over Desktop user experience.
 
@@ -7,6 +7,9 @@ This is a portfolio website that has prioritized mobile user  experience over De
 - HTML and CSS.  
 - Javascript  
 
+## Live Demo 
+
+[Live Demo Link](https://borrnelsonk.github.io/)
 
 ## Getting Started
 This is a simple mobile first website built based on 
@@ -20,9 +23,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 -Clone this project using the following steps;  
-1.[@Visit the project page](https://github.com/borrnelsonk/mobilefirstportfolio)    
+1.[@Visit the project page](https://github.com/borrnelsonk/borrnelsonk.github.io)    
 2.Navigate to code section and click on clone.    
-3.[@Copy the web url](https://github.com/borrnelsonk/mobilefirstportfolio.git)    
+3.[@Copy the web url](https://github.com/borrnelsonk/borrnelsonk.github.io.git)    
 4.Navigate to the local path where you want to clone the repository.    
 5.Git clone the repository.  
 
@@ -54,7 +57,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/borrnelsonk/mobilefirstportfolio/issues).
+Feel free to check the [issues page](https://github.com/borrnelsonk/borrnelsonk.github.io/issues).
 
 ## Show your support
 
@@ -68,4 +71,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/borrnelsonk/desktopportfolio/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/borrnelsonk/borrnelsonk.github.io/blob/main/LICENSE) licensed.
